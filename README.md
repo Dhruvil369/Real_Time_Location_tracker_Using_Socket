@@ -4,7 +4,7 @@ Overview
 
 This project is a Real-Time Location Tracker that uses Socket.IO for real-time communication, EJS for templating, and an inbuilt map to display live locations.
 
-Features
+🚀 Features 🚀
 
 Real-time location updates using Socket.
 
@@ -12,7 +12,7 @@ Interactive map with live tracking.
 
 user-friendly interface.
 
-Technologies Used
+🛠️ Technologies Used 🛠️
 
 Node.js (Backend)
 
